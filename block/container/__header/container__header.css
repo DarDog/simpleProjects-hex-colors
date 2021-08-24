@@ -1,0 +1,14 @@
+.container__header {
+  font-size: 2rem;
+  text-transform: uppercase;
+  -ms-animation: colorchange 5s infinite alternate;
+  -moz-animation: colorchange 5s infinite alternate;
+  -o-animation: colorchange 5s infinite alternate;
+  animation: colorchange 5s infinite alternate;
+}
+
+@media screen and (max-width: 480px){
+  .container__header {
+    font-size: 1.5rem;
+  }
+}
