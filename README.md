@@ -1,10 +1,10 @@
 # Project hex-colors
 
 ### Technologies used:
-*JS
-*BEM
-*CSS
-*HTML
+* JS
+* BEM
+* CSS
+* HTML
 ___
 ### Description
 
