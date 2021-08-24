@@ -11,4 +11,4 @@ ___
 Skills development training project
 
 ___
-### [Gh-pages]((https://dardog.github.io/simpleProjects-hex-colors/))
+### [Gh-pages](https://dardog.github.io/simpleProjects-hex-colors/)
